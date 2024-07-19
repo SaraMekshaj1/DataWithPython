@@ -10,8 +10,9 @@ This dataset contains daily snapshots of offers scraped from JustJoinIT - one of
 
 ## Table of Contents
 - [Project Overview](#ProjectOverview)
+-  [Installations](Instllation)
 - [Images of website running](#Images)
-- [Installations](Instllation)
+
 
 ## Project Overview
 
