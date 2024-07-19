@@ -10,7 +10,8 @@ This dataset contains daily snapshots of offers scraped from JustJoinIT - one of
 
 ## Table of Contents
 - [Project Overview](#ProjectOverview)
-- [Images of website running](Images)
+- [Images of website running](#Images)
+- [Installations](Instllation)
 
 ## Project Overview
 
@@ -20,6 +21,12 @@ Combines multiple JSON files into a single CSV file.
 Cleans and preprocesses the data.
 Normalizes nested data fields.
 Provides interactive visualizations and insights using Streamlit and Plotly.
+
+#Installations
+
+pip install  plotly
+pip install pandas  
+pip install streamlit
 
 
 ## Images from Running Website
