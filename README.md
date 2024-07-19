@@ -2,7 +2,7 @@
 
 This project aims to provide a comprehensive analysis and visualization  of data 
 
-##Source of data 
+Source of data 
 https://www.kaggle.com/datasets/jszafranqb/justjoinit-job-offers-data-2021-10-2023-09?resource=download
 
 About this dataset: 
@@ -22,7 +22,7 @@ Cleans and preprocesses the data.
 Normalizes nested data fields.
 Provides interactive visualizations and insights using Streamlit and Plotly.
 
-#Installations
+##Installations
 
 pip install  plotly
 pip install pandas  
