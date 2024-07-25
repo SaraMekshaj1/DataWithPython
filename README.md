@@ -23,7 +23,7 @@ Cleans and preprocesses the data.
 Normalizes nested data fields.
 Provides interactive visualizations and insights using Streamlit and Plotly.
 
-##Installations
+## Installations
 
 pip install  plotly
 pip install pandas  
